@@ -52,9 +52,13 @@ Proje, kullanıcıdan metin girişi alarak bu metin üzerinde duygu analizi yapa
 
 
 LOJ N-GRAM TF-IDF Doğruluk Oranı: 0.85
+
 LOJ CHARLEVEL Doğruluk Oranı: 0.87
+
 Naive Bayes Count Vectors Doğruluk Oranı: 0.82
+
 Naive Bayes Word-Level TF-IDF Doğruluk Oranı: 0.84
+
 
 
 Katkıda bulunmak isterseniz, lütfen bir pull request oluşturun. Her türlü katkı (hata düzeltmeleri, yeni özellikler, belge güncellemeleri) memnuniyetle karşılanır.
