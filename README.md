@@ -45,12 +45,17 @@ Model performansı, cross-validation kullanılarak değerlendirilmiştir.
 Proje, kullanıcıdan metin girişi alarak bu metin üzerinde duygu analizi yapabilen basit bir GUI'ye sahiptir. Tkinter kullanılarak oluşturulan bu arayüz, kullanıcının bir cümle girmesine ve analizin sonucunu görmesine olanak tanır.
 
 --> Sentiment-Analysis-Project.py dosyasını çalıştırarak duygu analizini başlatın:
+
 --> GUI arayüzü üzerinde cümle girişinizi yapın ve "Analiz Et" butonuna basın.
+
 --> Model çıktıları ve doğruluk oranları terminalde görüntülenir.
+
+
 LOJ N-GRAM TF-IDF Doğruluk Oranı: 0.85
 LOJ CHARLEVEL Doğruluk Oranı: 0.87
 Naive Bayes Count Vectors Doğruluk Oranı: 0.82
 Naive Bayes Word-Level TF-IDF Doğruluk Oranı: 0.84
+
 
 Katkıda bulunmak isterseniz, lütfen bir pull request oluşturun. Her türlü katkı (hata düzeltmeleri, yeni özellikler, belge güncellemeleri) memnuniyetle karşılanır.
 
